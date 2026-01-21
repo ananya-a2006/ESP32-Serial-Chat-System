@@ -38,6 +38,6 @@ The ESP32 is powered and communicates **only through the USB cable**.
 
 All messages and responses are displayed in the **Arduino Serial Monitor**.
 
-![Serial Monitor Output](images/SS.png)
+![Serial Monitor Output](images/ss.png)
 
 ---
